@@ -77,6 +77,10 @@ section.imagem >p{
     padding:5px
 }
 
+a:hover{
+    text-decoration: underline;
+    background-color: blue;
+}
 
 footer{
     background-color: black;
